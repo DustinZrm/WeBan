@@ -14,13 +14,6 @@
 
 仅供学习交流使用，如果有空会补充下实现过程，欢迎 PR
 
-## 直接使用
-
-直接从 Releases 下载 .exe 单文件运行，根据提示输入，中途报错请重试
-
-[网络好下载地址](https://github.com/hangone/WeBan/releases/latest/download/WeBan.exe)
-
-[镜像下载地址](https://mirror.ghproxy.com/https://github.com/hangone/WeBan/releases/latest/download/WeBan.exe)
 
 ## 源码运行
 
@@ -34,7 +27,7 @@
 
 4. 编辑 WeBan.py，在 11-13 行的双引号内填入配置信息。其他行可以不用动
 
-5. 运行 python WeBan.py，打开验证码图片输入验证码，等待即可。每个任务大概需要等待 15 秒才不会触发限制
+5. 运行 python WeBan.py，等待即可。每个任务大概需要等待 15 秒才不会触发限制
 
 ### 演示
 
